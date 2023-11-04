@@ -1,1 +1,2 @@
-# Sales_Dashboard
+### Sales_Dashboard
+![Uploading image.png…]()
