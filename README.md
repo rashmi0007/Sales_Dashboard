@@ -13,6 +13,6 @@ Link to download the dataset: https://github.com/rashmi0007/Sales_Dashboard/blob
 
 ◾ Utilized complex parameters for in-depth analysis through worksheets, enhancing customization via filters and slicers.
 
-◾ Established connections, incorporated new tables, and applied calculations to manipulate data, facilitating user-driven parameters for visualizations.
+◾ Established connections, incorporated new tables, and applied calculations to manipulate data, facilitating user-driven parameters for   visualizations.
 
 ◾ Employed various customized visualizations including pie charts, clustered bar charts, and slicers for comprehensive insights.
